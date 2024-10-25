@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const DeleteBook = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>Delete Book</div>;
+};
 
-export default DeleteBook
+export default DeleteBook;

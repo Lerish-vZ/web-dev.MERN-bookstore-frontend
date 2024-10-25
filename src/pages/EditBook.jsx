@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const EditBook = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>Edit Book</div>;
+};
 
-export default EditBook
+export default EditBook;
