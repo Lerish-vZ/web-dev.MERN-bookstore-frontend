@@ -28,14 +28,17 @@ const BookModal = ({ book, onClose }) => {
           <BiUserCircle className='text-red-300 text-2xl' />
           <h2 className='my-1'>{book.author}</h2>
         </div>
-        <p className='mt-4'>Anything You want to show</p>
+        <p className='mt-4'>Description of Book</p>
         <p className='my-2'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni quia
-          voluptatum sint. Nisi impedit libero eveniet cum vitae qui expedita
-          necessitatibus assumenda laboriosam, facilis iste cumque a pariatur
-          nesciunt cupiditate voluptas? Quis atque earum voluptate dolor nisi
-          dolorum est? Deserunt placeat cumque quo dicta architecto, dolore
-          vitae voluptate sequi repellat!
+          a written text that can be published in printed or electronic form a
+          set of pages that have been fastened together inside a cover to be
+          read or written in Writing is like giving a soul to a dead body, it
+          revitalises a frame with all the bones (words) and other vital organs
+          (grammatical rules) connected to construct ideas or knowledge. Various
+          words are combined by writers to create something significant; they
+          are chosen purposefully to make a meaningful medium of communication.
+          They transpire ideas and knowledge to their intended audience through
+          consistent and logical depiction.
         </p>
       </div>
     </div>
