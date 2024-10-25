@@ -32,7 +32,8 @@ const BookModal = ({ book, onClose }) => {
         <p className='my-2'>
           a written text that can be published in printed or electronic form a
           set of pages that have been fastened together inside a cover to be
-          read or written in Writing is like giving a soul to a dead body, it
+          read or written in.
+          Writing is like giving a soul to a dead body, it
           revitalises a frame with all the bones (words) and other vital organs
           (grammatical rules) connected to construct ideas or knowledge. Various
           words are combined by writers to create something significant; they
